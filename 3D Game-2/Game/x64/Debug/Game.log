@@ -1,0 +1,31 @@
+﻿  Kaynak.cpp
+C:\Users\gokce\Desktop\220401109-Finalödevi-GökçenDenizalp\Game\Kaynak.cpp(66,16): warning C4244: 'başlatılıyor': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\gokce\Desktop\220401109-Finalödevi-GökçenDenizalp\Game\Kaynak.cpp(67,15): warning C4244: 'başlatılıyor': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\gokce\Desktop\220401109-Finalödevi-GökçenDenizalp\Game\Kaynak.cpp(68,15): warning C4244: 'başlatılıyor': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\gokce\Desktop\220401109-Finalödevi-GökçenDenizalp\Game\Kaynak.cpp(206,16): warning C4244: 'başlatılıyor': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\gokce\Desktop\220401109-Finalödevi-GökçenDenizalp\Game\Kaynak.cpp(207,15): warning C4244: 'başlatılıyor': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\gokce\Desktop\220401109-Finalödevi-GökçenDenizalp\Game\Kaynak.cpp(208,15): warning C4244: 'başlatılıyor': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\gokce\Desktop\220401109-Finalödevi-GökçenDenizalp\Game\Kaynak.cpp(260,18): warning C4305: 'bağımsız değişken': 'double' iken 'GLfloat' olarak kesildi
+C:\Users\gokce\Desktop\220401109-Finalödevi-GökçenDenizalp\Game\Kaynak.cpp(260,12): warning C4305: 'bağımsız değişken': 'double' iken 'GLfloat' olarak kesildi
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\xutility(265,77): warning C4244: 'bağımsız değişken': '_Ty' - 'float' dönüşümü; veri kaybı olabilir
+          with
+          [
+              _Ty=int
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\memory(2092,13): message : derlenen şablon işlevi 'void std::_Construct_in_place<_Ty,int,int,int,int>(_Ty &,int &&,int &&,int &&,int &&) noexcept(false)' örneği oluşturma başvurusuna bakın
+          with
+          [
+              _Ty=Player
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\memory(2765,46): message : derlenen şablon işlevi 'std::_Ref_count_obj2<Player>::_Ref_count_obj2<_Ty,_Ty,_Ty,_Ty>(_Ty &&,_Ty &&,_Ty &&,_Ty &&)' örneği oluşturma başvurusuna bakın
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\gokce\Desktop\220401109-Finalödevi-GökçenDenizalp\Game\Kaynak.cpp(334,12): message : derlenen şablon işlevi 'std::shared_ptr<Player> std::make_shared<Player,int,int,int,int>(int &&,int &&,int &&,int &&)' örneği oluşturma başvurusuna bakın
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\xutility(265,77): warning C4244: 'bağımsız değişken': '_Ty' - 'float' dönüşümü; veri kaybı olabilir
+          with
+          [
+              _Ty=double
+          ]
+  Game.vcxproj -> C:\Users\gokce\Desktop\220401109-Finalödevi-GökçenDenizalp\Game\x64\Debug\Game.exe

@@ -1,0 +1,6 @@
+﻿  FileName.cpp
+C:\Users\bahar\OneDrive\Masaüstü\C#\Project3\Project3\FileName.cpp(31,47): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\bahar\OneDrive\Masaüstü\C#\Project3\Project3\FileName.cpp(31,31): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\bahar\OneDrive\Masaüstü\C#\Project3\Project3\FileName.cpp(139,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\bahar\OneDrive\Masaüstü\C#\Project3\Project3\FileName.cpp(371,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Project3.vcxproj -> C:\Users\bahar\OneDrive\Masaüstü\C#\Project3\x64\Debug\Project3.exe
